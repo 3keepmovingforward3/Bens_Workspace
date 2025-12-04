@@ -1,12 +1,9 @@
-name: xeus-cling
+name: platform
 channels:
   - conda-forge
 dependencies:
+  - rust
   - xeus-cling=0.15.0
   - xtensor=0.24.4
   - xtensor-blas=0.20.0
   - libstdcxx-devel_linux-64=*=*19
-
-name: rust
-channels:
-  - conda-forge
