@@ -1,6 +1,0 @@
-unzip 
-unrar 
-p7zip-full
-gcc
-gdb
-build-essential
