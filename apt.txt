@@ -3,4 +3,4 @@ unrar
 p7zip-full
 gcc
 gdb
-rust
+build-essential
