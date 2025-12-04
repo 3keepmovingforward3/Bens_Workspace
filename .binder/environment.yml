@@ -7,3 +7,45 @@ dependencies:
   - xtensor=0.24.4
   - xtensor-blas=0.20.0
   - libstdcxx-devel_linux-64=*=*19
+  
+  # Scientific python
+  - jupyterlab
+  - networkx
+  - numpy
+  - openpyxl
+  - pandas
+  - scipy
+
+  # Plotting
+  - ipympl
+  - matplotlib-base
+  - plotly
+  - seaborn
+  
+  # Machine learning
+  - scikit-learn
+  - tensorflow
+  - pytorch
+
+  # General chemistry
+  - ase
+  - chemiscope
+  - mdanalysis
+  - mendeleev
+  - mordred
+  - nglview
+  - openmm
+  - rdkit
+
+  # Materials Project
+  - mp-api
+  - mpcontribs-client
+  - pymatgen
+
+  # Utilities
+  - pycodestyle
+  - ruff
+
+  # For study of biosystems
+  - deepmd-kit
+  - lammps
